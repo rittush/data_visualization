@@ -10,4 +10,4 @@ South region shows lower average sales compared to others.
 Consider promotional campaigns in the South region.
 Insight 3:
 Sales increase during certain months (e.g., festive season).
-👉 Stock planning and inventory management should align with high-demand months.
+Stock planning and inventory management should align with high-demand months.
